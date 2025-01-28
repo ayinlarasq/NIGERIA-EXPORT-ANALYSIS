@@ -10,7 +10,7 @@ We defined our key performance indicators (KPIs) as:
 3. Total revenue
 4. Total quantity of crops sold
    
-###**FINDINGS**
+## **FINDINGS**
 Our analysis revealed several key insights into Nigeria's agricultural export growth:
 Total Revenue: Nigeria generated a total of $16 billion in revenue from 
 agricultural exports between 2020 and 2023.
