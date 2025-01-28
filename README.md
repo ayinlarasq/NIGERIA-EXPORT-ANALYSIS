@@ -20,3 +20,14 @@ billion.
 Top-Performing Crops: Cocoa emerged as the highest-performing product, 
 with a total revenue of $2.4 billion. Other top-performing crops included 
 cashews, sesame seeds, and ginger.
+
+## **RECOMMENDATIONS**
+Based on our findings, we recommend the following: 
+1. Invest in infrastructure: Improve transportation networks, storage facilities, and 
+other infrastructure to support the growth of agricultural exports.
+2. Support farmers: Provide training, financing, and other forms of support to help 
+farmers increase their productivity and competitiveness.
+3. Promote export-oriented agriculture: Encourage farmers to produce crops like 
+Cocoa, that are in high demand in international markets.
+4. Diversify export destinations: Encourage exporters to explore new markets and 
+reduce dependence on traditional export destinations
